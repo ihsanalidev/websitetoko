@@ -167,3 +167,7 @@ Kalau mau lebih proper lagi:
 pakai Laravel Sail (Docker)
 pakai Prettier / Pint (formatter)
 pakai CI/CD (GitHub Actions)
+
+==============================================================================
+php artisan serve
+npm run dev
